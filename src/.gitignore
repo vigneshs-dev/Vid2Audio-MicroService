@@ -133,3 +133,4 @@ dmypy.json
 
 # Ignore all venv folders recursively
 **/venv/
+notification/manifests/secret.yaml
